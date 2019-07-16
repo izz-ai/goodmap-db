@@ -1,0 +1,1 @@
+# goodmap-db
